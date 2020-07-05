@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qas-x.github.io</id>
-    <title>QAS&apos;s Base</title>
-    <updated>2020-07-04T14:30:30.287Z</updated>
+    <title>QAS&apos;s Cottage</title>
+    <updated>2020-07-05T00:19:38.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qas-x.github.io"/>
     <link rel="self" href="https://qas-x.github.io/atom.xml"/>
     <subtitle>行走于苍穹之上，将星空献给你。</subtitle>
     <logo>https://qas-x.github.io/images/avatar.png</logo>
     <icon>https://qas-x.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, QAS&apos;s Base</rights>
+    <rights>All rights reserved 2020, QAS&apos;s Cottage</rights>
     <entry>
         <title type="html"><![CDATA[分享]]></title>
         <id>https://qas-x.github.io/post/share/</id>
