@@ -322,10 +322,11 @@ a {
   left: 0;
   top: 0;
   bottom: 0;
-  background-color: #7c8280;
-  background-size: cover;
-  background-position: center;
-  background-image: url('../media/images/(6).jpg');
+  background-color: #233c50;
+  background-size: 320px;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-image: url('../media/images/(6)_.jpg');
   display: flex;
   flex-direction: column;
   overflow-y: scroll;
@@ -335,7 +336,7 @@ a {
 }
 .sidebar .top-container {
   text-align: center;
-  padding: 48px 16px;
+  padding: 32px 16px;
   flex: 1;
 }
 .sidebar .top-container .site-logo {
@@ -358,7 +359,9 @@ a {
   transition: all 0.3s;
 }
 .sidebar .top-container .site-nav:hover {
-  color: #f8f9fa;
+  color: #ffffff;
+  font-size: larger;
+  font-weight: bolder;
 }
 .sidebar .bottom-container {
   padding: 24px 16px;
