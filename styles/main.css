@@ -308,8 +308,7 @@ summary {
   }
 }
 body {
-  background: #f8f9fa;
-  background-image: url('...media/images/bg.jpg');
+  background-image: url('../media/images/bg.jpg');
   background-repeat: no-repeat;
   background-position: center;
   opacity: 0.2;
