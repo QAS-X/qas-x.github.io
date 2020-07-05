@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qas-x.github.io</id>
     <title>QAS&apos;s Cottage</title>
-    <updated>2020-07-05T06:17:38.778Z</updated>
+    <updated>2020-07-05T06:33:44.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qas-x.github.io"/>
     <link rel="self" href="https://qas-x.github.io/atom.xml"/>
@@ -59,11 +59,15 @@
         <link href="https://qas-x.github.io/post/about/">
         </link>
         <updated>2020-07-01T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote></blockquote>
+        <summary type="html"><![CDATA[<blockquote>
+<p>干燥的冷气，尘埃的味道，我在其中，踏上旅途。——宫园薰《四月是你的谎言》</p>
+</blockquote>
 ]]></summary>
-        <content type="html"><![CDATA[<blockquote></blockquote>
+        <content type="html"><![CDATA[<blockquote>
+<p>干燥的冷气，尘埃的味道，我在其中，踏上旅途。——宫园薰《四月是你的谎言》</p>
+</blockquote>
 <!-- more -->
-<p>欢迎光临，木得点赞按钮，要不<a href="">打赏</a>一下吧！（打赏暂时不能用呢（</p>
+<p>欢迎光临，<s>木得点赞按钮，要不 <a href="">打赏</a>一下吧！</s>（打赏暂时不能用呢（</p>
 <h3 id="关于本站">🏠 关于本站</h3>
 <p>本站利用gridea搭建，感兴趣的话可以联系窝……<br>
 <s>（虽然窝也不太会）</s><br>
