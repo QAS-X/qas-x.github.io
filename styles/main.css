@@ -326,7 +326,7 @@ a {
   background-size: 320px;
   background-position: bottom;
   background-repeat: no-repeat;
-  background-image: url('../media/images/(19).jpg');
+  background-image: url('../media/images/sidebar-bg.jpg');
   display: flex;
   flex-direction: column;
   overflow-y: scroll;
