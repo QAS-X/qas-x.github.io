@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qas-x.github.io</id>
     <title>QAS&apos;s Realm</title>
-    <updated>2020-07-10T08:22:58.584Z</updated>
+    <updated>2020-07-10T08:23:51.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qas-x.github.io"/>
     <link rel="self" href="https://qas-x.github.io/atom.xml"/>
@@ -10,28 +10,6 @@
     <logo>https://qas-x.github.io/images/avatar.png</logo>
     <icon>https://qas-x.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, QAS&apos;s Realm</rights>
-    <entry>
-        <title type="html"><![CDATA[攻略]]></title>
-        <id>https://qas-x.github.io/post/strategy/</id>
-        <link href="https://qas-x.github.io/post/strategy/">
-        </link>
-        <updated>2020-07-05T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>于浩歌狂热之际中寒；于天上看见深渊。<br>
-于一切眼中看见无所有；于无所希望中得救。<br>
-——鲁迅</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>于浩歌狂热之际中寒；于天上看见深渊。<br>
-于一切眼中看见无所有；于无所希望中得救。<br>
-——鲁迅</p>
-</blockquote>
-<!-- more -->
-<p><a href="https://qas-x.github.io/post/GE2/">噬神者2</a></p>
-<p><a href="https://qas-x.github.io/post/GE2RB/">噬神者2rb</a></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://qas-x.github.io/post/about/</id>
@@ -84,26 +62,6 @@
 </blockquote>
 <!-- more -->
 <p>占坑……</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享]]></title>
-        <id>https://qas-x.github.io/post/share/</id>
-        <link href="https://qas-x.github.io/post/share/">
-        </link>
-        <updated>2020-07-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>分享汇总（持续更新中……<br>
-有想分享给博主的可以 评论 or QQ 联系~</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>分享汇总（持续更新中……<br>
-有想分享给博主的可以 评论 or QQ 联系~</p>
-<!-- more -->
-<p><a href="https://qas-x.github.io/post/music/">歌单</a>（暂无</p>
-<p><a href="https://qas-x.github.io/post/anime/">动漫</a></p>
-<p><a href="https://qas-x.github.io/post/film/">电影</a></p>
-<p><a href="https://qas-x.github.io/post/game/">游戏</a></p>
-<p><a href="https://qas-x.github.io/post/website/">网站</a></p>
-<p>占坑待更……</p>
 ]]></content>
     </entry>
 </feed>
