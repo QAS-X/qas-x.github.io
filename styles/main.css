@@ -353,14 +353,15 @@ a {
 }
 .sidebar .top-container .site-nav {
   display: block;
-  padding: 8px 16px;
+  padding: 12px 16px;
   margin: 16px 0;
   color: #dee2e6;
   transition: all 0.3s;
+  font-size: 20px;
 }
 .sidebar .top-container .site-nav:hover {
   color: #ffffff;
-  font-size: larger;
+  font-size: 24px;
   font-weight: bolder;
 }
 .sidebar .bottom-container {
