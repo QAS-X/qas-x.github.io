@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://qas-x.github.io</id>
+    <title>QAS&apos;s Realm</title>
+    <updated>2024-10-03T16:51:19.140Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://qas-x.github.io"/>
+    <link rel="self" href="https://qas-x.github.io/atom.xml"/>
+    <subtitle>行走于苍穹之上，将星空献给你。</subtitle>
+    <logo>https://qas-x.github.io/images/avatar.png</logo>
+    <icon>https://qas-x.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, QAS&apos;s Realm</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://qas-x.github.io/post/about/</id>
+        <link href="https://qas-x.github.io/post/about/">
+        </link>
+        <updated>2020-07-01T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>干燥的冷气，尘埃的味道，我在其中，踏上旅途。——宫园薰《四月是你的谎言》</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>干燥的冷气，尘埃的味道，我在其中，踏上旅途。——宫园薰《四月是你的谎言》</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[散华🌸]]></title>
+        <id>https://qas-x.github.io/post/diary/</id>
+        <link href="https://qas-x.github.io/post/diary/">
+        </link>
+        <updated>2020-07-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>这便是你到来的地方，我坐在这里写下这些东西，我不得不如此，这感觉不错。自那场噩梦降临已有两天之久，而我才刚刚完成，这会是最终的结局，万物的复生。我不知我是否可以继续前行，我不知我能否前行。<br>
+——scp-3999 我于万物之中</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>这便是你到来的地方，我坐在这里写下这些东西，我不得不如此，这感觉不错。自那场噩梦降临已有两天之久，而我才刚刚完成，这会是最终的结局，万物的复生。我不知我是否可以继续前行，我不知我能否前行。<br>
+——scp-3999 我于万物之中</p>
+</blockquote>
+]]></content>
+    </entry>
+</feed>
